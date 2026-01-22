@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f1f5f9;
+}
+
+.app {
+  width: 100vw;       /* 🔥 full screen width */
+  min-height: 100vh;
+}
+
+.header {
+  background: #0f172a;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.main {
+  padding: 1rem;
+  max-width: 1400px;   /* 👈 keeps content readable on large screens */
+  margin: auto;
+}

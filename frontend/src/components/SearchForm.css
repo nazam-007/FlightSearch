@@ -1,0 +1,24 @@
+.search-card {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  display: grid;
+  gap: 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+@media (min-width: 768px) {
+  .search-card {
+    grid-template-columns: repeat(4, 1fr);
+    align-items: end;
+  }
+}
+
+.search-card button {
+  padding: 0.7rem;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

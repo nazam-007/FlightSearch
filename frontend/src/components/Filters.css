@@ -1,0 +1,14 @@
+.filters {
+  background: #f8fafc;
+  padding: 1rem;
+  border-radius: 10px;
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .filters {
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+  }
+}
