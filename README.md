@@ -163,9 +163,9 @@ Pagination for large datasets
 Nishat Wasi
 Frontend / Full Stack Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://www.linkedin.com/in/nishatwasi/
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://github.com/nazam-007?tab=repositories
 
 
 
